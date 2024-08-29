@@ -1,0 +1,4 @@
+com\mycompany\agregarcarritoservlet\JakartaRestConfiguration.class
+com\mycompany\agregarcarritoservlet\resources\JakartaEE10Resource.class
+com\mycompany\agregarcarritoservlet\AgregarCarritoServlet.class
+com\mycompany\agregarcarritoservlet\conexion\conexion.class

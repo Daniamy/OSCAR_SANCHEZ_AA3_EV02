@@ -1,0 +1,4 @@
+com\mycompany\tiendagorritos\RegistrarClienteServlet.class
+com\mycompany\tiendagorritos\conexion\conexion.class
+com\mycompany\tiendagorritos\JakartaRestConfiguration.class
+com\mycompany\tiendagorritos\resources\JakartaEE10Resource.class
